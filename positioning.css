@@ -1,0 +1,24 @@
+.topbox {
+    background-color: lightgrey;
+    width: 100px;
+    height: 100px
+}
+.box {
+    background-color: lightgrey;
+    width: 400px;
+    height: 200px;
+    position: relative
+}
+.box2 {
+    background-color: darkgrey;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    right: -10;  
+    
+}
+.wrapper {
+    margin-left: 50px;
+    margin-right: 50px;
+}
